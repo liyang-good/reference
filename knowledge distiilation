@@ -1,0 +1,13 @@
+
+2015 Hinton Knowledge distillation  Teacher and student network. 
+
+
+Sharing logit and computing loss function:  soft target and hard target 
+
+$l = L_{ce}+D_{KL(p_1||p_2)}$ 
+
+
+
+
+
+https://pic2.zhimg.com/80/v2-d01f5142d06aa27bc5e207831b5131d9_1440w.webp
